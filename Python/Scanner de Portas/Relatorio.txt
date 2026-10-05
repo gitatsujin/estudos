@@ -1,0 +1,6 @@
+5000 -> Porta desconhecida | HTTP/1.1 403 Forbidden
+Content-Length: 0
+Server: AirTunes/980.77.5
+X-Apple-ProcessingTime: 0
+X-Apple-RequestReceivedTimestamp: 42327778
+5432 -> PostgreSQL | (sem banner)
