@@ -1,0 +1,10 @@
+22 -> SSH
+80 -> HTTP
+443 -> HTTPS
+3306 -> MySQL
+23 -> Telnet
+8080 -> HTTP alternativo
+9999 -> Porta desconhecida
+53 -> DNS
+110 -> POP3
+70000 -> Porta desconhecida
